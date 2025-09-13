@@ -7,7 +7,7 @@ A web application designed to help users learn effectively using the **spaced re
 - View and manage daily revision tasks.
 - Track progress and postpone revisions as needed.
 
-- Go to the link :  revize.live
+- Go to the link :  [revize.live](https://revize.live/)
 
 ---
 
