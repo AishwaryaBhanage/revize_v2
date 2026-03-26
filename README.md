@@ -1,7 +1,7 @@
 Revize - AI-Powered Spaced Repetition Learning Platform
 Transform any learning material into smart flashcards with AI, and never forget what you learn.
 
-🌐 Live App: revize.live
+🌐 Live App: [revize.live](https://www.revize.live/)
 
 License Python React AI
 
@@ -191,8 +191,8 @@ Second Review (Day 4): Moves info to medium-term memory
 Subsequent Reviews (Days 9-60): Solidifies long-term retention
 Result: Information retention of 80-90% even months later.
 
-🌟 What Makes Revize Different?
-vs. Traditional Flashcard Apps (Anki, Quizlet)
+🌟 What Makes Revize Different? 
+Traditional Flashcard Apps (Anki, Quizlet)
 Feature	Revize	Traditional Apps
 AI Flashcard Creation	✅ Automatic from documents/images	❌ Manual typing required
 Multi-format Input	✅ PDF, Images, Text	⚠️ Usually text only
@@ -207,6 +207,7 @@ Active Recall	✅ Flashcard-based	⚠️ Passive reading
 Review Scheduling	✅ Automatic	❌ Manual reminders only
 AI Summarization	✅ Auto flashcards	⚠️ Limited or manual
 Retention Focus	✅ Designed for memory	❌ Designed for storage
+
 🛠️ Technical Highlights
 AI-Powered: Uses Google's latest Gemini 2.0 Flash model
 Vision Capabilities: Advanced OCR and diagram understanding
